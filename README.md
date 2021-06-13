@@ -1,4 +1,4 @@
 # Countries and Facts
 
 ## India
-- Unity in diversity India
+- Unity in diversity
